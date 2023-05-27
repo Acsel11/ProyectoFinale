@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">CurriculumsFinal</string>
 </resources>
+
+<resources>
+<string name="app_name">Pruebas deppp</string>
+<string name="nombre">nombre</string>
+<string name="telefono">67676767</string>
+<string name="locacion">mexico</string>
+<string name="habilidades">habilidades</string>
+<string name="idiomas">esp</string>
+<string name="correo">uach.mx</string>
+<string name="titulo">ing</string>
+<string name="educacion">uach</string>
+<string name="experiencia">inge</string>
+
+
+
+</resources>

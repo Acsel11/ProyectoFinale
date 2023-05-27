@@ -59,3 +59,48 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textViewEmail" />
+
+    <TextView
+        android:id="@+id/textViewExperience"
+        android:layout_width="237dp"
+        android:layout_height="39dp"
+        android:text="@string/experiencia"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewLocation" />
+
+    <TextView
+        android:id="@+id/textViewEducation"
+        android:layout_width="236dp"
+        android:layout_height="42dp"
+        android:text="@string/educacion"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewExperience" />
+
+    <TextView
+        android:id="@+id/textViewSkills"
+        android:layout_width="236dp"
+        android:layout_height="41dp"
+        android:text="@string/habilidades"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewEducation" />
+
+    <TextView
+        android:id="@+id/textViewLanguages"
+        android:layout_width="239dp"
+        android:layout_height="35dp"
+        android:text="@string/idiomas"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewSkills" />
+</androidx.constraintlayout.widget.ConstraintLayout>
