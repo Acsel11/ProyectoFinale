@@ -1,0 +1,18 @@
+{
+    "header": {
+      "version": "1.0",
+      "timestamp": "2023-05-26"
+    },
+    "member": {
+      "name": "Zaid Joel González Mendoza",
+      "title": "Estudiante de Ingeniería en Ciencias de la Computación",
+      "phone": "614-268-10-65",
+      "email": "a353254@uach.mx",
+      "location": "Chihuahua",
+      "experience": "2 años de experiencia en manejo del sistema de venta y en soporte y mantenimiento de cómputo",
+      "education": "Estudiante de Ingeniería en Ciencias de la Computación en la Universidad Autónoma de Chihuahua",
+      "skills": ["Python", "Html", "Css", "Cisco Packet Tracer"],
+      "languages": ["Español (Nativo)", "Inglés (Intermedio)"]
+    }
+  }
+  
