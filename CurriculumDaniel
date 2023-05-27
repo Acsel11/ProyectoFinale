@@ -1,0 +1,17 @@
+{
+  "header": {
+    "version": "1.0",
+    "timestamp": "2023-05-26"
+  },
+  "member": {
+    "name": "Daniel Lozano",
+    "title": "Ingeniero en Ciencias De La Computación",
+    "phone": "614 191 47 13",
+    "email": "a348603@uach.mx",
+    "location": "Chihuahua, Chihuahua",
+    "experience": "",
+    "education": "Licenciatura en Ing Ciencias de la Computación",
+    "skills": ["Python", "JavaScript", "Java", "Html"],
+    "languages": ["Español", "Inglés Básico"]
+  }
+}
