@@ -2,6 +2,7 @@ plugins {
     id 'com.android.application'
 }
 
+
 android {
     namespace 'mx.uach.fing.curriculumsfinal'
     compileSdk 33

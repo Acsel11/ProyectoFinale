@@ -1,4 +1,4 @@
-package mx.uach.fing.pruebasdeppp;
+package mx.uach.fing.curriculumsfinal;
 
 import android.content.Intent;
 import android.os.Bundle;

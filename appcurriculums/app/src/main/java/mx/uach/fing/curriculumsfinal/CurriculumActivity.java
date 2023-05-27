@@ -1,4 +1,4 @@
-package mx.uach.fing.pruebasdeppp;
+package mx.uach.fing.curriculumsfinal;
 
 import android.os.Bundle;
 import android.widget.TextView;
