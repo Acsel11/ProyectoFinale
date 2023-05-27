@@ -1,0 +1,17 @@
+{
+  "header": {
+    "version": "1.0",
+    "timestamp": "2023-05-26"
+  },
+  "member": {
+    "name": "Axel Moncloa",
+    "title": "Ingeniero Ciencias de la Computacion",
+    "phone": "614 109 46 12",
+    "email": "a348752@uach.mx",
+    "location": "Chihuahua Chihuahua",
+    "experience": "3 años como ing jr",
+    "education": "Licenciatura en Ing Ciencias de la Computacion",
+    "skills": ["Java", "Python", "JavaScript"],
+    "languages": ["ingles", "español", "aleman"]
+  }
+}
